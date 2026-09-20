@@ -31,7 +31,7 @@ The SQL file contains queries used to calculate and analyze the project KPIs.
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](PowerBI/PowerBI-Dashboard.png)
+![Power BI Dashboard](PowerBi/PowerBi-Dashboard.png)
 
 ### Tableau Dashboard
 
